@@ -1,0 +1,16 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore generated PDF outputs
+*.pdf
+output.pdf
+
+# Ignore the default input folder containing personal photos
+input/
+my_photos/
+
+# Ignore virtual environments if you create one later
+venv/
+.env
+desktop.ini
